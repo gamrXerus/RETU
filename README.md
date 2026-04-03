@@ -3,5 +3,5 @@ RETU is a simple Real ESRGAN texture/image upscaler written in python using NCNN
 
 This project uses Vulkan and depends on PySide6.
 
-#Running:
+# Running:
 python3 texture_upscaler.py
